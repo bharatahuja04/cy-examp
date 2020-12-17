@@ -1,4 +1,3 @@
-// const {Region} = require('@applitools/eyes-selenium');
 
 
 describe('Hackathon Test',()=>{
